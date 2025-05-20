@@ -7,11 +7,10 @@
   margin: 0px auto;
 }
 
-
 .logo_header {
   margin: 3px;
   width: auto;
-  height: 63px;
+  height: 145px;
 }
 
 .header ul {
@@ -32,8 +31,8 @@
   text-decoration: none;
 }
 
-.header li a:active{
-color:pink;
+.header li a:active {
+  color: pink;
 }
 
 .header li a:hover,

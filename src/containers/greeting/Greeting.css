@@ -228,3 +228,13 @@
 [data-entity][data-entity="verb"]::after {
   background: rgb(21, 124, 112);
 }
+
+[data-entity][data-entity="tools"] {
+  background: rgba(255, 165, 0, 0.2);
+  border-color: rgb(255, 165, 0);
+  color: rgb(255, 255, 255);
+}
+[data-entity][data-entity="tools"]::after {
+  background: rgb(255, 140, 0);
+  color: rgb(0, 0, 0);
+}
